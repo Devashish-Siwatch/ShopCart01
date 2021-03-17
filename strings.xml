@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShopCart01</string>
+    <string name="items">Items</string>
+    <string name="cart">Cart</string>
+</resources>
